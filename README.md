@@ -1,2 +1,2 @@
-# reacTestLandingPage
-Landing page using React JS with Tailwind CSS 
+# React + Vite
+# Testeando si esta frase entra en el readme
